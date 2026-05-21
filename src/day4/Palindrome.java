@@ -1,9 +1,7 @@
-package day2;
+package day4;
 
-public class Palindreome {
-    
-
-        public static boolean isPalindrome(String s){
+public class Palindrome {
+ public static boolean isPalindrome(String s){
     
             // Convert to lowercase for case-insensitive check
             s = s.toLowerCase();
